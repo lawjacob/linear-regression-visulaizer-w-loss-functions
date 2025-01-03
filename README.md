@@ -22,7 +22,6 @@ animation.animate()
 
 ## Basic Usage
 
-```python
 from gradient_descent_viz import GradientDescentAnimation
 
 # Create animation with default L2 loss
