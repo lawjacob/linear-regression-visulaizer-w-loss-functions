@@ -19,9 +19,9 @@ animation = GradientDescentAnimation(
     learning_rate=0.01
 )
 animation.animate()
-
-## Basic Usage
-
+```
+# Basic usage with different loss functions
+```python
 from gradient_descent_viz import GradientDescentAnimation
 
 # Create animation with default L2 loss
